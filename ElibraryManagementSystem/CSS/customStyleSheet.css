@@ -1,0 +1,17 @@
+﻿.footer-links{
+    color:#ffffff;
+    text-decoration: none !important;
+}
+
+.footer-links:hover{
+    color:lightseagreen;
+
+}
+#footer1{
+    background:#4b4646;
+    text-align:center;
+}
+#footer2 {
+    background: #343131;
+    text-align: center;
+}
